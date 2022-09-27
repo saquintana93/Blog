@@ -1,14 +1,18 @@
 p{
     color: blue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 h1{
     color: brown;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 h2{
     color: aquamarine;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 h3{
     color: aquamarine;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 body{
     background-color: black;
